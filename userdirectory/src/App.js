@@ -1,8 +1,11 @@
-import React from "react";
-import SearchResultContainer from "./components/SearchResultContainer";
-
+import React from 'react';
+import UserContainer from './components/UserContainer'
+import JumboTron from './components/JumboTron';
 function App() {
-  return <SearchResultContainer />;
+  return <>
+  <JumboTron/>
+  <UserContainer/> 
+  </>
 }
 
 export default App;
