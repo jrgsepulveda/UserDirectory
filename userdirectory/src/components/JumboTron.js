@@ -1,7 +1,7 @@
 import "./styles.css";
 import React from "react";
 
-const JumboTron = () => {
+function JumboTron() {
   return (
     <div className="jumbotron jumbotron-fluid text-center">
       <div className="container">

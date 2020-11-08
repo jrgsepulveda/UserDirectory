@@ -1,7 +1,9 @@
 import axios from "axios";
 
-const UsersList = () =>{
+function usersList() {
   return axios.get("https://randomuser.me/api/?results=200&nat=US");
 }
 
-export default UsersList;
+export default {
+  usersList
+};
