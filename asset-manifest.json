@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jrgsepulveda/UserDirectory/static/css/main.d046dff8.chunk.css",
+    "main.js": "/jrgsepulveda/UserDirectory/static/js/main.8ac5dea6.chunk.js",
+    "main.js.map": "/jrgsepulveda/UserDirectory/static/js/main.8ac5dea6.chunk.js.map",
+    "runtime-main.js": "/jrgsepulveda/UserDirectory/static/js/runtime-main.6f91b5a9.js",
+    "runtime-main.js.map": "/jrgsepulveda/UserDirectory/static/js/runtime-main.6f91b5a9.js.map",
+    "static/css/2.43b2b750.chunk.css": "/jrgsepulveda/UserDirectory/static/css/2.43b2b750.chunk.css",
+    "static/js/2.0d90df74.chunk.js": "/jrgsepulveda/UserDirectory/static/js/2.0d90df74.chunk.js",
+    "static/js/2.0d90df74.chunk.js.map": "/jrgsepulveda/UserDirectory/static/js/2.0d90df74.chunk.js.map",
+    "index.html": "/jrgsepulveda/UserDirectory/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/jrgsepulveda/UserDirectory/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.d046dff8.chunk.css.map": "/jrgsepulveda/UserDirectory/static/css/main.d046dff8.chunk.css.map",
+    "static/js/2.0d90df74.chunk.js.LICENSE.txt": "/jrgsepulveda/UserDirectory/static/js/2.0d90df74.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f91b5a9.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.0d90df74.chunk.js",
+    "static/css/main.d046dff8.chunk.css",
+    "static/js/main.8ac5dea6.chunk.js"
+  ]
+}
